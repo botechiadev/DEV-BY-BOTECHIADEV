@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: grid;
+    grid-template-rows: 110px auto 40px;
+    min-height: 100vh;
+    max-width: 1fr;
+}
+
+
+header{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-around;
+    background: gray;
+    color: white;
+
+}
+#myDiv{
+    position: fixed;
+    min-width: 350px;
+    left: 0;
+    top:0;
+    bottom: 0;
+    background: orange;
+    display: none;
+}
+
+footer{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: space-around;
+    background: gray;
+    color: white;
+    padding-top: 10px;
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>MundoTermicas</title>
+</head>
+<body>
+    <header class="a">
+        <h1 id="title">
+            <img src="./img/logo/logoBrand.png" class="logoBrand" alt="logo mundo termicas"/>
+        </h1>
+        <span>
+            <input type="text" class="inputSearch" placeholder="modelo, cor, marca">
+            <button class="btnSearch">Buscar</button>
+        </span>
+        <span>
+            <button id="btnCart">
+                <img id="emptyCartState" src="./img/icons/emptyCart.png" alt="icon carrinho vazio"/>
+            </button>
+        </span>
+    </header>
+    <main class="b">
+        <section class="b-1">
+            <header class="b1-header">
+            <h2>Nossos Produtos</h2>
+            <span>Variedades, Marcas e Modelos das <strong>MELHORES GARRAFAS TÉRMICAS</strong></span>
+        </header>
+        <ul class="b1-list">
+            <li>
+                <article>
+                    <h3>#ID - MODELO - MARCA</h3>
+                    <img src="./img/garrafa1.PNG"/>
+                    <p>
+                        <span><strong>PREÇO:</strong>139,90</span>
+                    </p>
+                    <button>CART</button>
+                    <button>DETAILS</button>
+                </article>
+            </li>
+        </ul>
+        </section>
+        <section class="modal">
+            <header class="modal-header">
+                <h2>Modelo do Produto</h2>
+                <button id="btnCloseModal">X</button>
+            </header>
+            <div class="modal-img">
+                 <img src="./img/garrafa1.PNG"/>
+            </div>
+            <div class="modal-list">       
+                 <ul>
+                        <li><strong>Modelo:</strong> Modelo da Garrafa</li>
+                        <li><strong>MARCA:</strong>Marca X</li>
+                        <li><strong>COR:</strong>NOME <span class="colorBox"></span></li>
+                        <li><strong>CAPACIDADE:</strong>1000ml</li>
+                        <li><strong>PREÇO:</strong>139,90</li>
+                    </ul>
+            </div>
+        </section>
+        <aside class="b-2">
+            <p>Você ainda não tem items no carrinho</p>
+        </aside>
+    </main>
+<footer class="c">
+    <ul class="social-icons-list">
+    <li>
+      <a href="#" class="social-link"><i class="fab fa-linkedin"></i></a>
+    </li>
+    <li>
+      <a href="#" class="social-link"><i class="fab fa-github"></i></a>
+    </li>
+    <li>
+      <a href="#title" class="social-link"><i class="fas fa-arrow-up"></i></a>
+    </li>
+    </ul>
+    </footer>
+</body>
+</html>

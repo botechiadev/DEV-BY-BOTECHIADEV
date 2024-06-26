@@ -1,0 +1,738 @@
+$ git add -A
+warning: in the working copy of 'projetos-botechia-erika/projeto-frontend-react-pilares/src/components/Footer/Footer.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projetos-botechia-erika/projeto-frontend-react-pilares/src/components/Globals/Footer/index.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projetos-botechia-erika/projeto-landing-page/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.rtl.min.css', LF will be replaced by CRLF the next time Git touches it   
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.min.css', LF will be replaced by CRLF the next time Git touches it     
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.rtl.min.css', LF will be replaced by CRLF the next time Git touches it 
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.min.css', LF will be replaced by CRLF the next time Git touches it  
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.rtl.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.rtl.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.bundle.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.bundle.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.esm.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.esm.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/js/bootstrap.bundle.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.rtl.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.rtl.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.rtl.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.rtl.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.bundle.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.bundle.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.esm.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.esm.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/js/bootstrap.bundle.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/js/bootstrap.bundle.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: adding embedded git repository: projetos-botechia-erika/projeto-botechia-erika
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint:   git submodule add <url> projetos-botechia-erika/projeto-botechia-erika
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint:   git rm --cached projetos-botechia-erika/projeto-botechia-erika
+hint:
+hint: See "git help submodule" for more information.
+hint: Disable this message with "git config advice.addEmbeddedRepo false"
+warning: in the working copy of 'projetos-botechia-erika/projeto-landing-page/style.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/.eslintrc.cjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/src/App.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/src/App.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/src/main.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labCars/vite.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labColab/.eslintrc.cjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labColab/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labColab/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labColab/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labColab/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labColab/src/App.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labColab/src/App.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labColab/src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labColab/src/main.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labColab/vite.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/.eslintrc.cjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/src/App.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/src/App.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/src/main.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labFoods/vite.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLearning/.eslintrc.cjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLearning/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLearning/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLearning/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLearning/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLearning/src/App.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLearning/src/App.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLearning/src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLearning/src/main.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLearning/vite.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLife/.eslintrc.cjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLife/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLife/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLife/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLife/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLife/src/App.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLife/src/App.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLife/src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLife/src/main.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labLife/vite.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/.eslintrc.cjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/src/App.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/src/App.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/src/main.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labShop/vite.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labWallet/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labWallet/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labWallet/package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labWallet/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labWallet/src/app.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labWallet/src/app.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labWallet/src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labWallet/src/main.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labClients/labWallet/vite.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/data/countries.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/data/emojiCollection.js', LF will be replaced by CRLF the next time Git touches it  
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/exercicios/exercicio2.js', LF will be replaced by CRLF the next time Git touches it 
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/exercicios/exercicio3.js', LF will be replaced by CRLF the next time Git touches it 
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/exercicios/index.js', LF will be replaced by CRLF the next time Git touches it      
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/fixacao/fixacao1.js', LF will be replaced by CRLF the next time Git touches it      
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/i2.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/praticas/pratica-1.js', LF will be replaced by CRLF the next time Git touches it    
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/praticas/pratica-2.js', LF will be replaced by CRLF the next time Git touches it    
+warning: in the working copy of 'treinos-botechia-erika/labServer/node-package-json/praticas/pratica-3.js', LF will be replaced by CRLF the next time Git touches it    
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/config/development.env', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/public/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/business/SelectsByUser.ts', LF will be replaced by CRLF the next time Git touches it        
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/business/bandsManager.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/business/buscaCarro.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/business/buscaCompra.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/business/buscaPostPorAutor.ts', LF will be replaced by CRLF the next time Git touches it    
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/constants/countryList.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiAdmin/phonesController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiAdmin/purchasesController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiBank/accountsController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiCars/frotaController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiMarket/marketController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiMusic/bandsController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiMusic/songsController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiPosts/postsController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiSchool/coursesController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiSchool/projectsController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiSchool/studentsController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/controllers/apiUsers/usersController.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/dataTS/accounts.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/dataTS/courses.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/dataTS/frota.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/dataTS/posts.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/database/dbdata.sql', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/database/knexDB.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/helpers/createId.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/helpers/matchDescriptionCategory.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/helpers/matchTotalDays.ts', LF will be replaced by CRLF the next time Git touches it        
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/helpers/searchPostReference.ts', LF will be replaced by CRLF the next time Git touches it   
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/index.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/interfaces/interfaces.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/json/dataAccounts.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/json/dataCourses.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/json/dataPostsDetails.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/json/dataUsers.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Accounts.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Band.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Copo.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Jobs.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Message.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Phone.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Post.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/PostDetails.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Posts.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Product.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Project.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/PurchaseItem.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/PurchaseList.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/Termic.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/models/User.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiAdmin/phones.ts', LF will be replaced by CRLF the next time Git touches it        
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiAdmin/purchases.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiBank/accounts.ts', LF will be replaced by CRLF the next time Git touches it       
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiCars/frota.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiMarket/fruits.ts', LF will be replaced by CRLF the next time Git touches it       
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiMusic/bands.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiMusic/songs.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiPosts/posts.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiSchool/courses.ts', LF will be replaced by CRLF the next time Git touches it      
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiSchool/projects.ts', LF will be replaced by CRLF the next time Git touches it     
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiSchool/students.ts', LF will be replaced by CRLF the next time Git touches it     
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/router/apiUsers/users.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/schemas/TypesSchema.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/schemas/UserSchema.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/src/types/types.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'treinos-botechia-erika/labServer/ts-01/tsconfig.json', LF will be replaced by CRLF the next time Git touches it
+
+botec@erika MINGW64 ~/OneDrive/Área de Trabalho/Labenu (wip-refactor-current-project)
+$ git commit -m "adicionando arquivos"
+[wip-refactor-current-project ea6cc6b] adicionando arquivos
+ 528 files changed, 135281 insertions(+), 9112 deletions(-)
+ rename labServer/node-package-json/templates/template-a001.js => conway-botechia-erika/minha-bio.txt (100%)
+ create mode 100644 conway-botechia-erika/modulo1/css-II-exercicios-main/README.md
+ create mode 100644 conway-botechia-erika/modulo1/css-II-exercicios-main/assets/cssii.mp4
+ create mode 100644 conway-botechia-erika/modulo1/css-II-exercicios-main/exercicio1.md
+ create mode 100644 conway-botechia-erika/modulo1/css-II-exercicios-main/exercicio2.md
+ create mode 100644 conway-botechia-erika/modulo1/css-II-exercicios-main/exercicio3.md
+ create mode 100644 conway-botechia-erika/modulo1/css-II-exercicios-main/index.html
+ create mode 100644 conway-botechia-erika/modulo1/css-II-exercicios-main/style.css
+ create mode 100644 conway-botechia-erika/modulo1/css-II-exercicios-main/treino-JS/README.md
+ create mode 100644 conway-botechia-erika/modulo1/css-II-exercicios-main/treino-git/README.md
+ create mode 100644 ds-botechia-erika/.gitattributes
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/acordeon.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/alertas.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/botones.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/breadcrumbs.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/cards.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/cards2.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/carousel.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/collapse.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.rtl.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.rtl.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.rtl.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-grid.rtl.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.rtl.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.rtl.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.rtl.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-reboot.rtl.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.rtl.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.rtl.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.rtl.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap-utilities.rtl.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.rtl.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.rtl.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.rtl.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/css/bootstrap.rtl.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/dropdown.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/flexbox/flexbox_1.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/flexbox/flexbox_2.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/flexbox/flexbox_3.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/formularios/checkbox_radios.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/formularios/floating_labels.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/formularios/formularios.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/formularios/formularios_grid.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/formularios/input_group.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/formularios/range.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/formularios/selectbox.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/formularios/validacion.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/grid/columnas_alineadas_horizontalmente.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/grid/columnas_alineadas_verticalmente.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/grid/columnas_anidadas.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/grid/grid.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/grid/gutters.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/grid/row_columns.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/grid/utilidades.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/grupos_de_botones.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/imagenes.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/img/bg.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/img/bg2.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/img/bg3.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/img/bg4.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/img/bg5.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/img/bg6.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/img/carousel1.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/img/carousel2.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/img/carousel3.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/index.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/insignias.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.bundle.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.bundle.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.bundle.min.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.bundle.min.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.esm.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.esm.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.esm.min.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.esm.min.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.min.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/js/bootstrap.min.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/list_group.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/modal.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/navbar.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/navs.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/offcanvas.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/paginacion.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/popovers.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/css/bootstrap.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/css/estilos.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/img/persona1.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/img/persona2.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/img/persona3.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/img/persona4.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/img/persona5.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/index.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/dashboard/js/bootstrap.bundle.min.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.rtl.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.rtl.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.rtl.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-grid.rtl.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.rtl.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.rtl.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.rtl.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-reboot.rtl.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.rtl.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.rtl.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.rtl.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap-utilities.rtl.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.rtl.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.rtl.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.rtl.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/bootstrap.rtl.min.css.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/css/estilos.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/index.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.bundle.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.bundle.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.bundle.min.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.bundle.min.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.esm.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.esm.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.esm.min.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.esm.min.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.min.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/grid/js/bootstrap.min.js.map
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/css/bootstrap.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/css/estilos.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/foto.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/img-1.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/img-2.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/img-3.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/img-4.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/img-5.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/img-6.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/img-7.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/slide1.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/slide2.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/img/slide3.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/index.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/js/app.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/portafolio/js/bootstrap.bundle.min.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/css/bootstrap.min.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/css/estilos.css
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/ad1.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/ad2.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/ad3.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/logo.png
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/paisaje1.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/paisaje2.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/persona1.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/persona2.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/persona3.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/persona4.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/img/persona5.jpg
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/index.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/red-social/js/bootstrap.bundle.min.js
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/vanilla/album.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/vanilla/blog.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/vanilla/checkout.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/practicas/vanilla/precios.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/progress_bar.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/spiners.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/tablas.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/tipografia.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/tipografia2.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/toast.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/tooltips.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/utilidades/bordes.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/utilidades/enlaces_coloreados.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/utilidades/fondos.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/utilidades/overflow.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/utilidades/position.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/utilidades/ratios.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/utilidades/sizing.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/utilidades/sombras.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/utilidades/streched_links.html
+ create mode 100644 ds-botechia-erika/bootstrap-botechia-erika/utilidades/visually_hidden.html
+ create mode 100644 package.json
+ rename labServer/node-package-json/templates/template-a005.js => perfil.txt (100%)
+ create mode 160000 projetos-botechia-erika/projeto-botechia-erika
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/Views/.txt
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/components/CartList.jsx
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/components/Filtros/Filtros.jsx
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/components/Item/Item.jsx
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/components/Item/styled.js
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/components/Modal/Modal.jsx
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/components/Modal/styled.Modal.js
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/pages/CartPage/CartPage.jsx
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/pages/CartPage/styled.CartPage.js
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/pages/ProductsPage/ProductsPage.jsx
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/pages/ProductsPage/styled.ProductsPage.js
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/pages/SearchPage/SearchPage.jsx
+ create mode 100644 projetos-botechia-erika/projeto-frontend-react-pilares/src/pages/SearchPage/styled.SearchPage.js
+ create mode 100644 projetos-botechia-erika/projeto-intro-web/JS/semana01.js
+ create mode 100644 projetos-botechia-erika/projeto-intro-web/README.md
+ create mode 100644 projetos-botechia-erika/projeto-intro-web/templates/base.js
+ rename labServer/ts-01/build/index.js => projetos-botechia-erika/projeto-intro-web/templates/script.js (100%)
+ create mode 100644 projetos-botechia-erika/projeto-landing-page/index2.html
+ create mode 100644 projetos-botechia-erika/projeto-landing-page/style.css
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/BattlePage.jsx
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/Details.jsx
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/DetailsPage.jsx
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/ErrorPage.jsx
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/GamePage.jsx
+ create mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/HomePage/HomePage.jsx
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/LandingPage.jsx
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/.flake8
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/.github/FUNDING.yml
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/.github/ISSUE_TEMPLATE/blank-screen-without-any-elements.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/.github/ISSUE_TEMPLATE/bug-report.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/.github/ISSUE_TEMPLATE/feature-request.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/.github/ISSUE_TEMPLATE/key-error.md delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/.github/workflows/build.yml
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/.github/workflows/greetings.yml    
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/.gitignore
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/CODE_OF_CONDUCT.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/LEARN.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/LICENSE
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/Makefile
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/README.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/CONTRIBUTING.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.ar-DZ.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.ban-BAN.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.fr-FR.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.gu-GU.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.hin-HIN.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.it-IT.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.kr-KR.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.mr-MR.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.pt-BR.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.ru-RU.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.spa-SPA.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.tr-TR.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.vi-VN.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/README.zh-CN.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/build.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.ar-DZ.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.ban-BAN.md       
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.fr-FR.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.gu-GU.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.it-IT.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.kr-KR.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.pt-BR.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.ru-RU.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.spa-SPA.md       
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.tr-TR.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.vi-VN.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/docs/instructions.zh-CN.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/gui/assets/TextBox_Bg.png
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/gui/assets/app_icon.ico
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/gui/assets/generate.png
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/gui/assets/iconbitmap.gif
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/gui/assets/path_picker.png
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/gui/gui.py
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/poetry.lock
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/pyproject.toml
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/requirements.txt
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tests/test_utils.py
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/cli.py
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/constants.py
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/designer.py
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/figma/README.md
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/figma/custom_elements.py delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/figma/endpoints.py      
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/figma/frame.py
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/figma/node.py
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/figma/vector_elements.py delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/template.py
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/utils.py
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/pages/PokemonsPage/PokemonsListPage.jsx
+ rename projetos-botechia-erika/projeto-react-apis/src/pages/{PokemonsHomePage/PokemonsHome.jsx => PokemonsPage/PokemonsPage.jsx} (99%)
+ rename projetos-botechia-erika/projeto-react-apis/src/pages/{PokemonsHomePage => PokemonsPage}/pokemonsListStyle.jsx (100%)
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/router/AppBattle.jsx
+ delete mode 100644 projetos-botechia-erika/projeto-react-apis/src/router/AuthRouter.jsx
+ create mode 160000 revisoes/repasando-javascript
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/.eslintrc.cjs (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/.gitignore (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/README.md (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/index.html (100%)
+ create mode 100644 treinos-botechia-erika/labClients/labCars/package-lock.json
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/package.json (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/public/vite.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/src/App.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/src/App.jsx (100%)
+ create mode 100644 treinos-botechia-erika/labClients/labCars/src/assets/img001.png
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/src/assets/react.svg (100%)
+ create mode 100644 treinos-botechia-erika/labClients/labCars/src/data/dataCars.json
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/src/index.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/src/main.jsx (100%)
+ rename labServer/ts-01/src/controllers/apiAdmin/academicReport.ts => treinos-botechia-erika/labClients/labCars/src/pages/HomePage.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labCars/vite.config.js (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/.eslintrc.cjs (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/.gitignore (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/README.md (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/index.html (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/package.json (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/public/vite.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/src/App.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/src/App.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/src/assets/react.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/src/index.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/src/main.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labColab/vite.config.js (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/.eslintrc.cjs (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/.gitignore (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/README.md (100%)
+ create mode 100644 treinos-botechia-erika/labClients/labFoods/ROOT.txt
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/index.html (100%)
+ create mode 100644 treinos-botechia-erika/labClients/labFoods/package-lock.json
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/package.json (80%)
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/public/vite.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/src/App.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/src/App.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/src/assets/react.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/src/index.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/src/main.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labFoods/vite.config.js (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/.eslintrc.cjs (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/.gitignore (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/README.md (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/index.html (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/package.json (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/public/vite.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/src/App.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/src/App.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/src/assets/react.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/src/index.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/src/main.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLearning/vite.config.js (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/.eslintrc.cjs (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/.gitignore (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/README.md (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/index.html (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/package.json (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/public/vite.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/src/App.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/src/App.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/src/assets/react.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/src/index.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/src/main.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labLife/vite.config.js (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/.eslintrc.cjs (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/.gitignore (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/README.md (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/index.html (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/package-lock.json (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/package.json (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/public/vite.svg (100%)
+ create mode 100644 treinos-botechia-erika/labClients/labShop/s001.png
+ create mode 100644 treinos-botechia-erika/labClients/labShop/s002.png
+ create mode 100644 treinos-botechia-erika/labClients/labShop/s003.png
+ create mode 100644 treinos-botechia-erika/labClients/labShop/s004.png
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/src/App.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/src/App.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/src/assets/react.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/src/index.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/src/main.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labShop/vite.config.js (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/.gitignore (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/index.html (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/package-lock.json (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/package.json (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/public/vite.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/src/app.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/src/app.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/src/assets/preact.svg (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/src/index.css (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/src/main.jsx (100%)
+ rename {labClients => treinos-botechia-erika/labClients}/labWallet/vite.config.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/data/countries.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/data/emojiCollection.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/exercicios/exercicio2.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/exercicios/exercicio3.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/exercicios/index.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/fixacao/fixacao1.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/i2.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/index.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/package-lock.json (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/package.json (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/praticas/pratica-1.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/praticas/pratica-2.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/praticas/pratica-3.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/node-package-json/public/index.html (100%)
+ rename labServer/ts-01/src/controllers/apiAdmin/financialReport.ts => treinos-botechia-erika/labServer/node-package-json/templates/template-a001.js (100%)
+ rename labServer/ts-01/src/controllers/apiSchool/tasksController.ts => treinos-botechia-erika/labServer/node-package-json/templates/template-a005.js (100%)
+ rename labServer/ts-01/src/database/cnv.db => treinos-botechia-erika/labServer/ts-01/build/index.js (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/config/._development.env (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/config/._production.env (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/config/._staging.env (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/config/development.env (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/config/production.env (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/config/staging.env (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/package-lock.json (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/package.json (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/public/index.html (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/.DS_Store (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/business/SelectsByUser.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/business/bandsManager.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/business/buscaCarro.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/business/buscaCompra.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/business/buscaPostPorAutor.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/constants/countryList.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/.DS_Store (100%)
+ rename {labServer/ts-01/src/router => treinos-botechia-erika/labServer/ts-01/src/controllers}/apiAdmin/academicReport.ts (100%)
+ rename labServer/ts-01/src/helpers/matchMarketCategory.ts => treinos-botechia-erika/labServer/ts-01/src/controllers/apiAdmin/financialReport.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiAdmin/phonesController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiAdmin/purchasesController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiBank/accountsController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiCars/frotaController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiMarket/marketController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiMusic/bandsController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiMusic/songsController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiPosts/postsController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiSchool/coursesController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiSchool/projectsController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiSchool/studentsController.ts (100%)
+ rename labServer/ts-01/src/models/Employer.ts => treinos-botechia-erika/labServer/ts-01/src/controllers/apiSchool/tasksController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/controllers/apiUsers/usersController.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/dataTS/accounts.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/dataTS/courses.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/dataTS/frota.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/dataTS/posts.ts (100%)
+ rename labServer/ts-01/src/models/FinancialReport.ts => treinos-botechia-erika/labServer/ts-01/src/database/cnv.db (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/database/cnv.sql (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/database/dbdata.db (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/database/dbdata.sql (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/database/knexDB.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/helpers/createId.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/helpers/matchDescriptionCategory.ts (100%)
+ rename labServer/ts-01/src/router/apiColab/posts.ts => treinos-botechia-erika/labServer/ts-01/src/helpers/matchMarketCategory.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/helpers/matchTotalDays.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/helpers/searchPostReference.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/index.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/interfaces/interfaces.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/json/dataAccounts.json (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/json/dataCourses.json (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/json/dataPostsDetails.json (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/json/dataUsers.json (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Accounts.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Band.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Car.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Copo.ts (100%)
+ rename labServer/ts-01/src/router/apiSchool/classrooms.ts => treinos-botechia-erika/labServer/ts-01/src/models/Employer.ts (100%)
+ rename labServer/ts-01/src/router/auth/index.ts => treinos-botechia-erika/labServer/ts-01/src/models/FinancialReport.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Jobs.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Message.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Phone.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Post.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/PostDetails.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Posts.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Product.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Project.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/PurchaseItem.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/PurchaseList.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/Termic.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/models/User.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/.DS_Store (100%)
+ rename projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/gui/__init__.py => treinos-botechia-erika/labServer/ts-01/src/router/apiAdmin/academicReport.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiAdmin/phones.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiAdmin/purchases.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiBank/accounts.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiCars/frota.ts (100%)
+ rename projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/__init__.py => treinos-botechia-erika/labServer/ts-01/src/router/apiColab/posts.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiMarket/fruits.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiMusic/bands.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiMusic/songs.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiPosts/posts.ts (100%)
+ rename projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/conftest.py => treinos-botechia-erika/labServer/ts-01/src/router/apiSchool/classrooms.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiSchool/courses.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiSchool/projects.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiSchool/students.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/router/apiUsers/users.ts (100%)
+ rename projetos-botechia-erika/projeto-react-apis/src/pages/PokedexPage/Tkinter-Designer-master/Tkinter-Designer-master/tkdesigner/figma/__init__.py => treinos-botechia-erika/labServer/ts-01/src/router/auth/index.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/schemas/TypesSchema.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/schemas/UserSchema.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/src/types/types.ts (100%)
+ rename {labServer => treinos-botechia-erika/labServer}/ts-01/tsconfig.json (100%)
+
+botec@erika MINGW64 ~/OneDrive/Área de Trabalho/Labenu (wip-refactor-current-project)
+$ ^C
