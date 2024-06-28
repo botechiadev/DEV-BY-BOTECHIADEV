@@ -1,23 +1,12 @@
+import AppRouter from "./router/AppRouter";
 
-import './App.css'
-
-function App() {
-  const [count, setCount] = useState(0)
+export function App() {
 
   return (
-    <>
-    <div className="content">
-<div>
+  <div>
 
-</div>
-<div>
+      <AppRouter/>
 
-</div>
-<div>
-  
-</div></div>
-    </>
+    </div>
   )
 }
-
-export default App
