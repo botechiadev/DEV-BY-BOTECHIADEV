@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 /*
 Pense em alguma coisa do cotidiano que seja contável e estruturada. Por enquanto, vamos chamar esta coisa de item. Com esse item, nós vamos construir nossas lógicas e evoluir no projeto através das semanas. Pode ser qualquer coisa que possa ser descrita com características escritas. Alguns exemplos abaixo:
 
@@ -52,7 +60,7 @@ const verificouEmail; //boolean
 
 Recomendamos, pensando no futuro, que você também pense em dados que podem receber múltiplos valores de uma só vez. Não vamos usar estes dados até mais pra frente, mas é legal já ter uma ideia.
 */
-
+/*
 const item ={
     id: "",
     titulo: "",

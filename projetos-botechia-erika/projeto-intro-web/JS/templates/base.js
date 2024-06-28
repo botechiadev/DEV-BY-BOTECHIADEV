@@ -24,11 +24,8 @@ let partial00A = `
   </aside>
 `;
 
-const templateEmptyList= `
-  <ul>
-  <li>Lista VAZIA!</li>
-  </ul>
-`
+const templateEmptyList=[...templateInicial]
+
 
 const templateWishList =`
 

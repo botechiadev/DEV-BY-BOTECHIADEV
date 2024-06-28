@@ -1,0 +1,1 @@
+Cannot GET /%3C/P%3E%3C/footer%3E%3C!--%20partial%20--%3E%20%20%3C!--%20Code%20injected%20by%20live-server%20--%3E%3Cscript%3E//%20%3C![CDATA[%20%20%3C--%20For%20SVG%20supportif%20('WebSocket'%20in%20window)%20%7B(function%20()%20%7Bfunction%20refreshCSS()%20%7Bvar%20sheets%20=%20[].slice.call(document.getElementsByTagName(
