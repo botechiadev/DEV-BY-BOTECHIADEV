@@ -9,15 +9,16 @@ export default function Header() {
 
   return (
     <ContainerHeader className="A1">
-        <img src={logoBrand} className="A1-a" />
 
         <div className="A1-b">
           <h1 className="h1Title" id="title">
-            UP<span className="h1Title-White">DEV</span>       </h1>
-          <p>Bem-Vindo ao meu Projeto Interativo</p>
+            UP<span className="h1Title-White">4DEV</span>    <img src={logoBrand} className="A1-a" width={45} height={45} />
+    </h1>
         </div>
 
         <div className="A1-c">
+          <span>Bem-Vindo ao meu Projeto Interativo</span>
+
           <button className="span-A1-c"
            onClick={()=>{handle2Slash(navigate)}} ><IoHome />
           </button>

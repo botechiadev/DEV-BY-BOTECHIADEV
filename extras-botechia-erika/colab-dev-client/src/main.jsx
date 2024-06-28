@@ -1,10 +1,15 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import {App} from './app'
-
-
+import App from './app.jsx'
+import { ApiProvider } from './common/context/api-context'
+import { GlobalStyled } from './common/global/globalStyled'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
+<>
+    <GlobalStyled/>
+    <ApiProvider>
     <App />
+    </ApiProvider>
+  </>
   </React.StrictMode>,
 )

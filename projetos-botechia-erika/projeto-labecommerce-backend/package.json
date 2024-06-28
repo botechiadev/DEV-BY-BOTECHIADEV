@@ -2,11 +2,13 @@
   "name": "projeto-labecommerce-backend",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node ./build/index.js",
     "build": "tsc",
-    "manager": "concurrently  \"tsc -w\" \"nodemon build/index.js\""
+    "manager": "nodemon index.js",
+    "dev": "concurrently  \"tsc -w\" \"nodemon build/index.js\""
   },
   "keywords": [
     "to-do-list"
