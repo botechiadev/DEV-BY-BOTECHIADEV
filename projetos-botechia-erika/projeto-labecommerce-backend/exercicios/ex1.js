@@ -1,1 +1,1 @@
-console.log('ex1')
+console.log('fruta')
