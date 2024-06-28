@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./build/index.js",
     "build": "tsc",
-    "dev": "concurrently  \"tsc -w\" \"nodemon build/index.js\""
+    "manager": "concurrently  \"tsc -w\" \"nodemon build/index.js\""
   },
   "keywords": [
     "to-do-list"
