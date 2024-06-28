@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RELATORIO</title>
+</head>
+<body>
+    <script>
+        const aulaModelo = {
+            id: "",
+            titulo: "",
+            modulo: "",
+            stack: "",
+            categoria: "",
+            listEx: [],
+            listFx:[],
+            listPg: []
+        }
+
+        const itemModelo = {
+            id: "",
+            titulo: "",
+            categoria: "",
+            subCategoria: "",
+            letra: "",
+            path: "",
+            listRecursos:[], 
+            isFeito: 0,
+        }
+
+        const a005 = {...aulaModelo,
+            id: "a005",
+            titulo: "A005-VARIAVEIS",
+            modulo: "M1",
+            stack: "VAINILLA",
+            categoria: "JS"
+        }
+
+        const recursosModelo = {
+            titulo: "",
+            isFuncao: false,
+            isParamsRequired: false,
+            isConstant: false,
+            isOpResult: false,
+            isLista: false,
+            isObject: false,
+            descricao: "",
+            toExecute: "commando para executar"
+        }
+
+        const ex1A005 = {
+            ...itemModelo,
+            id: "ex1",
+            titulo: "exercicio 1 - Variaveis",
+            categoria: "exercicios",
+            subCategoria: 1,
+            letra: false,
+            path: "javascript/a005/ex1.js",
+            listRecursos:[], 
+            isFeito: 0
+        }
+
+        const rs1Ex1A005 ={
+            ...recursosModelo,
+            titulo: "askByPrompt",
+            isFuncao: true,
+            isParamsRequired: true,
+            descricao: "Recebe uma parametro, pergunta parametro por prompt, compara resposta numerica ou string, retorna resultado ja com casting se necessario",
+            toExecute: "Chamar a funcao da seguinte maneira: askByPrompt(valorPerguntado)"
+        }
+
+
+
+        
+    </script>
+
+
+<script src="./a005/ex1.js"></script>
+</body>
+</html>

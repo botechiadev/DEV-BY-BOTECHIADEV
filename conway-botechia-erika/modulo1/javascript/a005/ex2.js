@@ -20,3 +20,26 @@ e) Altere o console para imprimir a pergunta e a resposta.
 Você está usando uma roupa azul hoje? - SIM
 */
 
+const p1="insira um numero de 1 a 3"
+const p2="insira um numero de 1 a 4"
+const p3="insira numero 1 a 6"
+const p4="insira 0 ou 1"
+
+const r1 = askByPrompt(p1)
+const r2 = askByPrompt(p2)
+const r3 = askByPrompt(p3)
+const values = [r1, r2, r3, r4]
+
+
+
+const searchDataInCourse = (values)=>{
+    const modulo = "M" + values[0]
+    const tipos = ["ex", "ch", "fx", "pg", "pj"]
+    const tipo = tipos[values[1]]
+    const subTipo = values[2]
+    const isEspecial = values[3]
+
+    const exercicioSelecionado = {
+
+    }
+}
