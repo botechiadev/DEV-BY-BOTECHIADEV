@@ -22,18 +22,26 @@ g) Para finalizar, imprima na tela a mensagem: "Olá, nome, você tem idade anos
 console.log(valor1, valor2)*/
 
 
-const askByPrompt = (askMsg) =>{
-    const askPrompt = prompt(askMsg)
-    const typeAnalisis = typeof Number(askPrompt) === typeof 1 ? (Number(askPrompt)): askPrompt
-    return typeAnalisis
+const askByPrompt = (value) =>{
+    const askPrompt = prompt(value)
+
+    const typeAnalisis = value =>{
+      if(askPrompt == typeof string && Number(askPrompt) != NaN){
+        return Number(askPrompt)
+      }else{
+        return askPrompt
+      } 
+    }
+    return typeAnalisis(value)
 }
 
 let value1 = askByPrompt("Insira sua idade")
 let value2 = askByPrompt("Insira seu Nome"); 
+const values = [value1, value2]
+let msg = `Olá, ${values[1]}, você tem ${values[0]} anos`;
 
-
-const printUserNameAge=()=>{
-     const idade = askByPrompt("Insira sua idade");
-      const nome = askByPrompt("Insira seu Nome");
-    const msg = `Olá, ${nome}, você tem ${idade} anos`
+const printNameAgeInMsg=(values, msg)=>{
+    return msg
 }
+
+console.log(printNameAgeInMsg(values, msg))
