@@ -1,9 +1,12 @@
 class Item {
-  constructor(id, categoria, path, status = 0) {
+  constructor(id, categoria, path, status, list1, list2, list3) {
     this_.id = id;
     this_.categoria = categoria;
     this_.path = path;
-    this.status = status;
+    this._status = status;
+    this._exercicios = list1;
+    this._praticas = list2;
+    this._fixs = list3
   }
 
   getId() {
