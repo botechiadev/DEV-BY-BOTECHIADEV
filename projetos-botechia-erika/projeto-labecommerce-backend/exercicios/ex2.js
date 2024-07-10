@@ -56,3 +56,5 @@ console.log(numeroAleatorioEntreUmENove)
 
 const numeroAleatorioEntreDezEQuinze = getRndInteger(10, 15)
 console.log(numeroAleatorioEntreDezEQuinze)*/
+
+console.log('par ou impar')
